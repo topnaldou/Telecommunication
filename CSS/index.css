@@ -1,0 +1,211 @@
+body{  
+     background-image: linear-gradient(to right, #0099f7, #f11712);
+     font-family: 'Franklin Gothic Medium',  'Arial Narrow', Arial, sans-serif;
+     margin: auto;
+     width: 70%;
+    }
+header{
+        margin-top: 20px;
+        text-align: center;
+        color: rgb(124, 4, 4);
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+      }
+header nav{
+           height: 40px;
+           align-items: center;
+           border-radius: 25px;
+           background-color:rgb(4, 20, 236)
+       
+          }
+header nav ul li{
+                 list-style-type: none;
+                 display: inline;
+                 margin-right: 90px;
+                 line-height: 40px;
+                 font-weight: bold;
+                }
+header nav ul li a{
+                   font-size: larger;
+                   text-decoration: none;
+                   color:white 
+                   }
+header nav ul li a:hover{
+                         color: rgb(235, 36, 36);
+                        }
+#im1{
+     inline-size: 7%;
+     padding-left: 70%;
+     margin-top: 1cm; 
+     margin-bottom: 0,5cm;  
+   }
+#propos{
+        margin-top: 5cm;
+        border: 30px solid 
+        
+          }
+#plan{
+          margin-top: 3cm;
+          border: 30px solid  
+          }
+          
+          #plat1{
+            margin-left: 25%;
+            color: white;     
+          }
+#plat{
+        margin-left: 60%;
+        margin-top: 15px;
+        color: white;
+          }
+section {
+         margin: auto;
+         float: left;
+        }
+section h2 {
+            text-align: center;
+           } 
+           
+#dlo{
+     margin-left: 20%;
+     margin-top: 0px;
+     color: white;
+
+           }
+#griot1{
+       width: 550px;
+       margin: 0px;
+       margin-top: 20px;
+
+              }                    
+aside {
+       margin: auto;
+       margin-left: 700px;
+      }       
+aside img {
+           margin-top: 60px;
+          }  
+aside h2 {
+          text-align: center;
+         }               
+#im2{   
+     inline-size: 7%;
+     padding-left: 25%;
+     margin-top: -10cm   
+    } 
+#palais {
+         width: 550px;
+         margin: 0px;
+         margin-top: 20px;
+        }
+               
+#bataille{
+        width: 700px;
+        margin: 0px;
+        margin-top: 20px;
+        }
+              
+ #tonmtonm{
+           width: 600px;
+           margin: 2cm;
+           margin-top: 20px;   
+         }
+#section1{
+         margin: auto;
+         float: right;
+       }
+#h21{
+       margin-left: 20%;
+       }
+#h22{
+       margin-left: 15%;
+       }
+
+#pate{
+              margin-left: 45%;
+       }
+ #pate1{
+              margin-left: 70%;
+              color: white;
+       }
+ #lalo2{
+        margin-left: 20%;
+        color: white;
+       }
+
+       
+ #lalo{
+              margin-left: 45%;
+              
+       }
+footer {
+        height: 200px;
+        margin-top: 700px;
+        border-radius: 25px;
+        background-color:white 
+        }        
+#parenn{
+       margin-left: 35%;
+       }
+#ayiti{
+       margin-left: 15%;
+       }
+
+#chimen{
+           margin-top: 5cm; 
+       }
+footer ul li{
+       list-style-type: none;
+       display: inline;
+       margin-left: 120px; 
+       line-height: 40px;  
+       }
+footer ul li a{
+       align-items: center;
+       color: blue;
+       text-decoration: none; 
+       align-items: center; 
+       font-size: larger;      
+              }
+footer ul li a:hover{
+                     color:#f11712
+              }
+footer div ul li {
+                  list-style-type: none;
+                  display: inline;
+                  margin-left: 170px; 
+                  line-height: 200px;  
+                 }
+#facebook {
+           width: 40px;
+           height: 40px;
+          }
+
+.accordion {
+            margin-top: 2cm;
+            font-family: Arial, Tahoma, Verdana, Anel, Calibri;
+            background-color: rgb(255, 255, 255); 
+            color: rgb(9, 9, 243);
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            text-align: left;
+            border: none;
+            outline: none;
+            transition: 0.10s;
+            font-size: 1.3em
+           }
+  
+.accordion:hover {
+                  background-color: rgb(241, 170, 241)
+                 }
+.panel {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+       }
+.panel p {
+          font-family: Tahoma, Verdana, Calibri, Arial;
+          font-size: 1.3em;
+          text-align: left;
+         }
+
